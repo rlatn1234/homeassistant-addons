@@ -1,0 +1,3 @@
+[submodule "bambuddy"]
+	path = bambuddy
+	url = ../homeassistant-addon-bambuddy.git
